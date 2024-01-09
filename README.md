@@ -1,6 +1,6 @@
 # TicTacToe
 
-React Tic Tac Toe game made using React JS, html, css and javascript. Playable on the web.
+React Tic Tac Toe game made using ReactJS with HTML, CSS and Javascript. Playable on the web. Mobile responsive!
 
 # Instructions
 
